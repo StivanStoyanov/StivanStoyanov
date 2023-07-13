@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StivanStoyanov
-- 🌱 I’m currently studying Software University.
+- 🌱 I’m currently studying at Software University.
 
 
 
